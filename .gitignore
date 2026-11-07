@@ -1,0 +1,8 @@
+*.class
+*.tasty
+out/
+.metals/
+.bloop/
+.scala-build/
+invoices.csv
+demo-sales.csv
